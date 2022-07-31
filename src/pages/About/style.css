@@ -1,6 +1,8 @@
 .about {
     display: block;
-    background-color: #E3DFF1;
+    background-color: #283618;
+    padding: 40px 20px 280px;
+
 }
 
 .about-container {
@@ -8,68 +10,77 @@
 
 }
 
-.about-description {
-    font-family: 'Open Sans', sans-serif;
-    width: 80%;
-    margin: 30px 200px 0 0px;
-    text-align: initial; 
-    color: #134B20;
-    font-size: 18px;
-}
 
-.about-image {
-    width: 300px;
-    margin: 60px 140px 0px 100px;
-}
 
 .about-title {
     font-family: 'Barlow Semi Condensed', sans-serif;
     font-weight: bold;
-    margin: 0px 0 0 0px;
-    width: 60%;
-    color: #C83636;
-    font-size: 30px;
+    width: 45%;
+    color: #fff;
+    font-size: 35px;
+    margin: 80px 0 0 100px;
 }
 
-.about-subtitle {
+
+.about-subtitle {    
+    position: absolute;
     font-family: 'Barlow Semi Condensed', sans-serif;
-    font-weight: bold;
-    color: #432D90;
+    color: #fff;
     font-size: 20px;
-    margin: 10px 0 0px 0;
+    margin: 50px 0px 0px 0;
     width: 70%;
+    left: 120px;
 }
 
-.about-options {
-    display: inline-flex;
-    text-align: center;
-    margin: 60px 20px 100px 20px;
-    align-items: center;
-}
-
-.about-options-image {
-    width: 160px;
-    margin: 0 0 30px 0px;
-
-}
-
-#about-options-title {
-    font-family: 'Barlow Semi Condensed', sans-serif;
-    font-weight: bold;
-    margin: 0 0px 20px 0;
-    color: #6451A6;
-    text-align: center;
-}
-
-.about-option-description {
+.about-description {
     font-family: 'Open Sans', sans-serif;
-    width: 80%;
-    margin: 0 0px 100px 0px;
-    display: inline-flex;
+    width: 30%;
+    margin: 25px 200px 0 0px;
+    text-align: initial;
+    color: #F0F0F0;
+    font-size: 15px;
+    position: absolute;
+    left: 120px;
+}
+
+.about-list {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    position: absolute;
+    left: 110px;
+    margin-top: 150px;
+    color: #fff;
 
 }
 
-.about-background-cloud {
-    width: 100%;
-    margin: -200px 0 0 0px;
+.about-img1 {
+    position: absolute;
+    height: 300px;
+    width: 200px;
+    left: 670px;
+    margin-top: 65px;
+    border-radius: 10px;
+
+}
+
+.about-img3 {
+    position: absolute;
+    height: 160px;
+    width: 200px;
+    left: 900px;
+    margin-top: 240px;
+    border-radius: 10px;
+
+}
+
+.about-img4 {
+    position: absolute;
+    height: 160px;
+    width: 200px;
+    border-radius: 10px;
+    left: 900px;
+    margin-top: 40px;
+    
+    
 }

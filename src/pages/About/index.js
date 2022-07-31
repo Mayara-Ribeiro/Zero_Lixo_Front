@@ -12,13 +12,18 @@ const About = () => {
             <div className='about-container'>
              
                 <div>
-                    <h6>O que é o Zera Lixo?</h6>
-                    <h2 className='about-title'>Porque ter o Zera Lixo em seu condomínio?</h2>
-                    <p className='about-description'>
+                    <h6 className ='about-subtitle'>O que é o Zera Lixo?</h6>
+                    <h2 className ='about-title'>Porque ter o Zera Lixo em seu condomínio?</h2>
+                    <p className ='about-description'>
                         Segundo a ONU nós estamos numa corrida contra uma 
                         catástrofe climática e o aumento de lixo nos aterros 
                         sanitários contribui na piora da nossa situção.
                     </p>
+                    <ul className ='about-list'>
+                        <li>Composteira com minhocários </li>
+                        <li>Horta vertical </li>
+                        <li>Sistema online de troca de pontos por produto</li>
+                    </ul>
                 </div>
 
             <img className='about-img1' src={Img1} alt='Img1' />

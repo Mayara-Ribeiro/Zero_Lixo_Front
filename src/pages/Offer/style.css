@@ -1,0 +1,33 @@
+.offer {
+    display: block;
+    background-color: #fff;
+
+}
+
+.offer-container {
+    display: inline-flex;
+
+}
+
+.offer-subtitle {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    margin: 50px 0 0 520px;
+    color: #134B20;
+    font-size: 15px;
+}
+
+.offer-title {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: bold;
+    color: #343434;
+    position: absolute;
+    margin: 10px 50px 0 350px;
+}
+
+.offer-description {
+    font-family: 'Open Sans', sans-serif;
+    margin: 70px 0 0 500px;
+    color: #134B20;
+    font-size: 15px;
+}
