@@ -1,0 +1,39 @@
+.banner {
+    display: block;
+    background-color: #fff;
+    padding: 40px 20px 140px;
+
+}
+
+.banner-container {
+    display: inline-flex;
+    
+}
+
+.banner-image {
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left: 800px;
+    top: 180px;
+
+}
+
+.banner-title {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: bold;
+    font-weight: bold;
+    width: 40%;
+    color: #343434;
+    font-size: 50px;    
+    margin: 150px 0 0 100px;
+}
+
+.banner-description {
+    font-family: 'Open Sans', sans-serif;
+    width: 55%;
+    margin: 5px 100px 0 100px;
+    text-align: initial;
+    color: #134B20;
+    font-size: 15px;
+}
