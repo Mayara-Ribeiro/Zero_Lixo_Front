@@ -60,5 +60,7 @@ a:hover {
 
 .menu-link {
     margin-left: 100px;
+    position: absolute;
+    left: 100px;
 }
 

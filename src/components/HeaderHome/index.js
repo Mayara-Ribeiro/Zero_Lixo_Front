@@ -4,6 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Logo from '../../assets/logo/logo-header.svg';
 import './style.css';
 import { Link } from "react-scroll";
+import Button from 'react-bootstrap/Button';
 
 function HeaderHome () {
      return (
@@ -51,6 +52,9 @@ function HeaderHome () {
                     duration={100}
                     to='contact'>Contato
                 </Link>
+                <Button className='button-login' variant="outline-light">Entrar</Button>{' '}
+                <Button className='button-cadastro' variant="outline-light">Cadastro</Button>{' '}
+
             </Nav>
 
         </Navbar.Collapse>
