@@ -57,10 +57,19 @@ a:hover {
     
 }
 
-
 .menu-link {
     margin-left: 100px;
     position: absolute;
     left: 100px;
 }
 
+.button-login {
+    position: absolute;
+    left: 800px;
+
+}
+
+.button-cadastro {
+    position: absolute;
+    left: 900px;
+}

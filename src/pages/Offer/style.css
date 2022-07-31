@@ -31,3 +31,43 @@
     color: #134B20;
     font-size: 15px;
 }
+
+.moradores{
+    position: absolute;
+    left: 100px;
+    margin-top: 200px;
+}
+
+.tasks{
+    position: absolute;
+    left: 100px;
+    margin-top: 300px;
+}
+
+.sistema{
+    position: absolute;
+    left: 100px;
+    margin-top: 400px;
+}
+
+.condominio{
+    position: absolute;
+    left: 600px;
+    margin-top: 200px;
+}
+
+.horta{
+    position: absolute;
+    left: 600px;
+    margin-top: 300px;
+}
+
+.composteiras{
+    position: absolute;
+    left: 600px;
+    margin-top: 400px;
+}
+
+.cor {
+    color: #2F2C4A;
+}

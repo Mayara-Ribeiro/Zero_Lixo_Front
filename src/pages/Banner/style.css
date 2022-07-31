@@ -36,3 +36,16 @@
     color: #134B20;
     font-size: 15px;
 }
+
+.buttonCond {
+    position: absolute;
+    left: 120px;
+    margin-top: 10px;
+}
+
+.buttonSaber {
+    position: absolute;
+    left: 380px;
+    margin-top: 10px;
+
+}
